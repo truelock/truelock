@@ -5,6 +5,7 @@
 
 
 ### ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=#F0E68C)
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-090909?style=for-the-badge&logo=scikit-learn&logoColor=#F7931E)
 ### [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Truelock)
 <!--
 **truelock/truelock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
